@@ -16,7 +16,7 @@ status-website:
   logoUrl: /assets/aurinko-icon.png
   name: Aurinko Upptime
   introTitle: "**Aurinko Upptime** is the uptime monitor and status page for Aurinko and BrightSync APIs, powered by the open-source [Upptime project]((https://github.com/upptime/upptime))."
-  introMessage: Learn more about Aurinko here: [www.aurinko.io](https://www.aurinko.io)
+  introMessage: "Learn more about Aurinko and BrightSync at [www.aurinko.io](https://www.aurinko.io)"
   navbar:
     - title: Status
       href: /
