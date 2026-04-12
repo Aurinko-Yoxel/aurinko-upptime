@@ -23,16 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sync.autinko.io.ico",
     "slug": "bright-sync-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "1.52%",
+    "uptimeDay": "1.52%",
+    "uptimeWeek": "1.52%",
+    "uptimeMonth": "1.52%",
+    "uptimeYear": "1.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-12": 0
+    }
   }
 ]
