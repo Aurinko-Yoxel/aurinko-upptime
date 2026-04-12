@@ -6,7 +6,7 @@ sites:
   - name: Aurinko API
     url: https://api.aurinko.io/v1/health/check
   - name: BrightSync API
-    url: https://sync.autinko.io/v2/ping
+    url: https://sync.autinko.io/api/v2/ping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -15,13 +15,15 @@ status-website:
   baseUrl: /aurinko-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Aurinko Upptime
-  introTitle: "**Aurinko Upptime** is the uptime monitor and status page for Aurinko API and BrightSync, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Aurinko Upptime** is the uptime monitor and status page for Aurinko and BrightSync APIs, powered by the open-source [Upptime project]((https://github.com/upptime/upptime))."
+  introMessage: Learn more about Aurinko here: [www.aurinko.io](https://www.aurinko.io)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Aurinko Docs
+      href: https://docs.aurinko.io/
+    - title: BrightSync Docs
+      href: https://docs.aurinko.io/brightsync
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
