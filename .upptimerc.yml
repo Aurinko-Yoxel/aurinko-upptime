@@ -3,6 +3,7 @@ owner: Aurinko-Yoxel # Your GitHub organization or username, where this reposito
 repo: aurinko-upptime # The name of this repository
 assignees:
    - aspantel
+   - tolikbotov
 
 sites:
   - name: Aurinko API
