@@ -13,9 +13,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /aurinko-upptime
-  logoUrl: /assets/aurinko-icon.png
+  logoUrl: /aurinko-upptime/assets/aurinko-icon.png
   name: Aurinko Upptime
-  introTitle: "**Aurinko Upptime** is the uptime monitor and status page for Aurinko and BrightSync APIs, powered by the open-source [Upptime project]((https://github.com/upptime/upptime))."
+  introTitle: "**Aurinko Upptime** is the uptime monitor and status page for Aurinko and BrightSync APIs."
   introMessage: "Learn more about Aurinko and BrightSync at [www.aurinko.io](https://www.aurinko.io)"
   navbar:
     - title: Status
