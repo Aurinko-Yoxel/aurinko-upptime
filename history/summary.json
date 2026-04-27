@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.aurinko.io.ico",
     "slug": "aurinko-api",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "96.75%",
+    "uptime": "99.78%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 197,
-    "timeDay": 79,
-    "timeWeek": 216,
-    "timeMonth": 197,
-    "timeYear": 197,
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 201,
+    "timeDay": 281,
+    "timeWeek": 218,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2026-04-25": 47
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 85,
-    "timeWeek": 225,
-    "timeMonth": 197,
-    "timeYear": 197,
+    "time": 202,
+    "timeDay": 287,
+    "timeWeek": 226,
+    "timeMonth": 202,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   }
 ]
