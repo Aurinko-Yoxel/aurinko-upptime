@@ -1,7 +1,7 @@
 url: https://api.aurinko.io/v1/health/check
 status: up
 code: 200
-responseTime: 147
-lastUpdated: 2026-07-07T23:55:41.671Z
+responseTime: 240
+lastUpdated: 2026-07-09T00:06:54.549Z
 startTime: 2026-04-12T14:58:17.005Z
 generator: Upptime <https://github.com/upptime/upptime>
