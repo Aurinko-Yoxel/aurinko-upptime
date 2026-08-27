@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 185,
-    "timeDay": 224,
-    "timeWeek": 149,
-    "timeMonth": 190,
-    "timeYear": 185,
+    "time": 187,
+    "timeDay": 475,
+    "timeWeek": 193,
+    "timeMonth": 199,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2026-04-25": 47
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sync.aurinko.io.ico",
     "slug": "bright-sync-api",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 187,
-    "timeDay": 289,
-    "timeWeek": 198,
-    "timeMonth": 194,
-    "timeYear": 187,
+    "uptimeYear": "99.91%",
+    "time": 189,
+    "timeDay": 382,
+    "timeWeek": 229,
+    "timeMonth": 199,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2026-05-20": 186
     }
